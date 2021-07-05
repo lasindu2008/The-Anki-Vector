@@ -1,5 +1,5 @@
-# The-Anki-Vector-Bot
-# The-Anki-Vector-Bot Based on Python Telegram Bot
+# The Anki Cozmo
+# The-Anki-Cozmo-Bot Based on Python Telegram Bot
 <p align="center">
   <img src="https://telegra.ph/file/3c9547262214b966babb8.jpg">
 </p>
@@ -9,21 +9,15 @@
 
 
 ### Video Tutorial:
-Complete guide on deploying @TheAnkiVectorbot's clone on Heroku.
-
-[![Tutorial](https://yt-embed.herokuapp.com/embed?v=fXXEcAkWAFU)](https://www.youtube.com/watch?v=fXXEcAkWAFU)
-
-☆ Video by [Damantha Jasinghe](https://www.youtube.com/watch?v=fXXEcAkWAFU) ☆
-
-[![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://www.youtube.com/watch?v=fXXEcAkWAFU)
+Complete guide on deploying @TheAnkiCozmobot's clone on Heroku.
 
 ## New version Avaiilable on Telegram as [The-Anki-Vector-Bot](https://t.me/TheAnkiVectorbot)
-## The-Anki-Vector-Bot is the latest
+## The-Anki-Vector-Bots Brother
 
 
 
 
-The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
+The bot is based on the original work done by [Lasindu S Umayanga](https://github.com/lasindu2008)
 This repo was just revamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
 
 All other credits mentioned on top of scripts
@@ -36,4 +30,4 @@ The Advanced Branch (For PRO's)
 The Anki Vector bot(advvanced)
 
 ## Special Credits
-- [Damantha](https://github.com/Damantha126) - A Co-Developer of Project
+- [Lasindu](https://github.com/lasindu2008) - A TG Bot Developer
